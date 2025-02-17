@@ -301,7 +301,7 @@ export default function Home() {
 
             <div className="flex gap-2">
               <Input
-                placeholder="Ask a question about your PDF..."
+                placeholder="Ask a question about your Book..."
                 value={inputMessage}
                 onChange={(e) => setInputMessage(e.target.value)}
                 onKeyPress={(e) => e.key === "Enter" && handleSendMessage()}

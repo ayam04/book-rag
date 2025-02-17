@@ -1,0 +1,194 @@
+[
+    {
+        "page": 1,
+        "file_path": "images\\page_1_img_1.jpeg"
+    },
+    {
+        "page": 1,
+        "file_path": "images\\page_1_img_2.jpeg"
+    },
+    {
+        "page": 3,
+        "file_path": "images\\page_3_img_1.jpeg"
+    },
+    {
+        "page": 3,
+        "file_path": "images\\page_3_img_2.jpeg"
+    },
+    {
+        "page": 4,
+        "file_path": "images\\page_4_img_1.jpeg"
+    },
+    {
+        "page": 5,
+        "file_path": "images\\page_5_img_1.png"
+    },
+    {
+        "page": 6,
+        "file_path": "images\\page_6_img_1.png"
+    },
+    {
+        "page": 8,
+        "file_path": "images\\page_8_img_1.jpeg"
+    },
+    {
+        "page": 10,
+        "file_path": "images\\page_10_img_1.jpeg"
+    },
+    {
+        "page": 10,
+        "file_path": "images\\page_10_img_2.jpeg"
+    },
+    {
+        "page": 11,
+        "file_path": "images\\page_11_img_1.jpeg"
+    },
+    {
+        "page": 22,
+        "file_path": "images\\page_22_img_1.jpeg"
+    },
+    {
+        "page": 46,
+        "file_path": "images\\page_46_img_1.jpeg"
+    },
+    {
+        "page": 46,
+        "file_path": "images\\page_46_img_2.jpeg"
+    },
+    {
+        "page": 55,
+        "file_path": "images\\page_55_img_1.jpeg"
+    },
+    {
+        "page": 56,
+        "file_path": "images\\page_56_img_1.jpeg"
+    },
+    {
+        "page": 61,
+        "file_path": "images\\page_61_img_1.jpeg"
+    },
+    {
+        "page": 61,
+        "file_path": "images\\page_61_img_2.jpeg"
+    },
+    {
+        "page": 79,
+        "file_path": "images\\page_79_img_1.jpeg"
+    },
+    {
+        "page": 79,
+        "file_path": "images\\page_79_img_2.jpeg"
+    },
+    {
+        "page": 79,
+        "file_path": "images\\page_79_img_3.jpeg"
+    },
+    {
+        "page": 88,
+        "file_path": "images\\page_88_img_1.png"
+    },
+    {
+        "page": 89,
+        "file_path": "images\\page_89_img_1.png"
+    },
+    {
+        "page": 89,
+        "file_path": "images\\page_89_img_2.png"
+    },
+    {
+        "page": 93,
+        "file_path": "images\\page_93_img_1.jpeg"
+    },
+    {
+        "page": 96,
+        "file_path": "images\\page_96_img_1.jpeg"
+    },
+    {
+        "page": 96,
+        "file_path": "images\\page_96_img_2.jpeg"
+    },
+    {
+        "page": 98,
+        "file_path": "images\\page_98_img_1.jpeg"
+    },
+    {
+        "page": 98,
+        "file_path": "images\\page_98_img_2.jpeg"
+    },
+    {
+        "page": 100,
+        "file_path": "images\\page_100_img_1.jpeg"
+    },
+    {
+        "page": 101,
+        "file_path": "images\\page_101_img_1.jpeg"
+    },
+    {
+        "page": 101,
+        "file_path": "images\\page_101_img_2.jpeg"
+    },
+    {
+        "page": 101,
+        "file_path": "images\\page_101_img_3.jpeg"
+    },
+    {
+        "page": 101,
+        "file_path": "images\\page_101_img_4.jpeg"
+    },
+    {
+        "page": 101,
+        "file_path": "images\\page_101_img_5.jpeg"
+    },
+    {
+        "page": 103,
+        "file_path": "images\\page_103_img_1.jpeg"
+    },
+    {
+        "page": 107,
+        "file_path": "images\\page_107_img_1.jpeg"
+    },
+    {
+        "page": 119,
+        "file_path": "images\\page_119_img_1.jpeg"
+    },
+    {
+        "page": 133,
+        "file_path": "images\\page_133_img_1.jpeg"
+    },
+    {
+        "page": 136,
+        "file_path": "images\\page_136_img_1.jpeg"
+    },
+    {
+        "page": 136,
+        "file_path": "images\\page_136_img_2.jpeg"
+    },
+    {
+        "page": 136,
+        "file_path": "images\\page_136_img_3.jpeg"
+    },
+    {
+        "page": 144,
+        "file_path": "images\\page_144_img_1.jpeg"
+    },
+    {
+        "page": 151,
+        "file_path": "images\\page_151_img_1.png"
+    },
+    {
+        "page": 154,
+        "file_path": "images\\page_154_img_1.jpeg"
+    },
+    {
+        "page": 160,
+        "file_path": "images\\page_160_img_1.jpeg"
+    },
+    {
+        "page": 202,
+        "file_path": "images\\page_202_img_1.jpeg"
+    },
+    {
+        "page": 202,
+        "file_path": "images\\page_202_img_2.jpeg"
+    }
+]
